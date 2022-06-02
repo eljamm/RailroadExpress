@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Railroad Express</string>
+    <string name="name">%1$s Nom</string>
+    <string name="address">Adresse</string>
+    <string name="set_station_name">%1$s de %2$s</string>
+    <string name="station">Station</string>
+    <string name="turnout">Aiguille</string>
+    <string name="visit_website">Visitez le site Web</string>
+    <string name="view_details">Voir les détails</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Railroad Express</string>
+    <string name="name">%1$s Name</string>
+    <string name="address">Address</string>
+    <string name="set_station_name">%1$s of %2$s</string>
+    <string name="station">Station</string>
+    <string name="turnout">Turnout</string>
+    <string name="visit_website">Visit Website</string>
+    <string name="view_details">View Details</string>
+</resources>
